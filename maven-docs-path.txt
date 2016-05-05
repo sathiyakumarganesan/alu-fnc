@@ -1,0 +1,4 @@
+http://www.javatpoint.com/maven-repository
+http://www.tutorialspoint.com/maven/maven_build_life_cycle.htm
+http://tutorials.jenkov.com/maven/maven-tutorial.html
+http://www.vogella.com/tutorials/ApacheMaven/article.html
